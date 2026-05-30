@@ -9,9 +9,9 @@ import {
   renderApplication,
   renderModule,
   validateUrl
-} from "./chunk-GVBSUVCN.js";
-import "./chunk-WC4PITUE.js";
+} from "./chunk-KURACUSY.js";
 import "./chunk-P2FFIJ3U.js";
+import "./chunk-WC4PITUE.js";
 import "./chunk-JU5O3GDH.js";
 import "./chunk-6AA2DW6V.js";
 import {
